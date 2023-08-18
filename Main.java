@@ -1,8 +1,5 @@
 /*
-AP Computer Science A
-CSA Theater Seating Lab
-Programmers: Hemang Shankar
-Date: 2/8/2022
+Programmer: Hemang Shankar
 */
 
 import java.util.Scanner; //Import the Scanner Class
